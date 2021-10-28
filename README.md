@@ -12,9 +12,9 @@
 
 I am Leví, Fullstack developer, Systems engineer and I also like to design.
 
-### Technologies
+### Technologies 💻
 
-<p align="left">
+<p align="center">
     <a href="https://www.w3.org/html/" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
             alt="html5" width="40" height="40" /> </a>
@@ -30,21 +30,25 @@ I am Leví, Fullstack developer, Systems engineer and I also like to design.
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
             alt="javascript" width="40" height="40" /> </a>
+</p>
+<p align="center">
     <a href="https://reactjs.org/" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
             alt="react" width="40" height="40" /> </a>
     <a href="https://redux.js.org" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux"
             width="40" height="40" /> </a>
+    <a href="https://svelte.dev" target="_blank"> <img
+            src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40"
+            height="40" /> </a>
     <a href="https://nodejs.org" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
             alt="nodejs" width="40" height="40" /> </a>
     <a href="https://expressjs.com" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
             alt="express" width="40" height="40" /> </a>
-    <a href="https://svelte.dev" target="_blank"> <img
-            src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40"
-            height="40" /> </a>
+</p>
+<p align="center">
     <a href="https://www.php.net" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"
             width="40" height="40" /> </a>
@@ -61,7 +65,7 @@ I am Leví, Fullstack developer, Systems engineer and I also like to design.
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
             alt="android" width="40" height="40" /> </a>
 </p>
-<p align="left">
+<p align="center">
     <a href="https://www.postgresql.org" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
             alt="postgresql" width="40" height="40" /> </a>
@@ -77,7 +81,7 @@ I am Leví, Fullstack developer, Systems engineer and I also like to design.
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
             alt="oracle" width="40" height="40" /> </a>
 </p>
-<p align="left">
+<p align="center">
     <a href="https://git-scm.com/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
     <a href="https://www.linux.org/" target="_blank"> <img
@@ -96,20 +100,27 @@ I am Leví, Fullstack developer, Systems engineer and I also like to design.
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leviarista&repo=eco-stats-peru&show_icons=true&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=0D1117)](https://github.com/leviarista/eco-stats-peru) -->
 
-<a href="https://github.com/leviarista/eco-stats-peru">
-  <img width="400" src="https://repository-images.githubusercontent.com/340539352/ef20cd80-7a0d-11eb-89f7-7d47d811e502"/>
-  <!--   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leviarista&repo=eco-stats-peru&show_icons=true&theme=tokyonight&show_owner=false" /> -->
-</a>
-<a href="https://github.com/leviarista/twenty_one_mining">
-  <img width="410" src="https://repository-images.githubusercontent.com/384718454/cb85f71c-7193-455e-87c0-e8abf16ad56f"/>
-  <!--   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leviarista&repo=twenty_one_mining&show_icons=true&theme=tokyonight&show_owner=false" /> -->
-</a>
+<p align="center">
+    <a href="https://github.com/leviarista/eco-stats-peru">
+      <img width="400" src="https://repository-images.githubusercontent.com/340539352/ef20cd80-7a0d-11eb-89f7-7d47d811e502"/>
+      <!--   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leviarista&repo=eco-stats-peru&show_icons=true&theme=tokyonight&show_owner=false" /> -->
+    </a>
+    <a href="https://github.com/leviarista/twenty_one_mining">
+      <img width="410" src="https://repository-images.githubusercontent.com/384718454/cb85f71c-7193-455e-87c0-e8abf16ad56f"/>
+      <!--   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leviarista&repo=twenty_one_mining&show_icons=true&theme=tokyonight&show_owner=false" /> -->
+    </a>
+</p>
 
 ### Stats 📈
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leviarista&show_icons=true&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=0D1117" alt="leviarista" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=leviarista&show_icons=true&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=0D1117" alt="leviarista" /></p>
+<p align="center">
+    <a href="https://github.com/leviarista">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leviarista&show_icons=true&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=0D1117" alt="Leví Arista's GitHub Stats" />
+    </a>
+    <a href="https://github.com/leviarista">
+      <img align="top" src="https://github-readme-stats.vercel.app/api?username=leviarista&show_icons=true&line_height=27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=0D1117" alt="Leví Arista's GitHub Stats" />
+    </a>
+</p>
 
 <!-- ![Leví's GitHub stats](https://github-readme-stats.vercel.app/api?username=leviarista&count_private=true&show_icons=true&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=0D1117) -->
 
